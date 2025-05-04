@@ -1,3 +1,7 @@
+My prompts for Wrangler with Byte Size and Time Duration Units Parsers
+
+------------------------------------------------------------------------------------
+
 Prompt 1:
 "How do I implement a new directive in CDAP Wrangler to aggregate ByteSize and TimeDuration values?"
 
@@ -27,3 +31,6 @@ Prompt 10:
 
 In Addition to these prompts i used AI extensively for error fixing and generating subfunctions. 
 For a lot of the errors I couldnt understand what it meant and i used ChatGPT and Claude to help me understand what it mean and how to fix it.
+
+
+------------------------------------------------------------------------------------------------------------
