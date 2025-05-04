@@ -1,0 +1,29 @@
+Prompt 1:
+"How do I implement a new directive in CDAP Wrangler to aggregate ByteSize and TimeDuration values?"
+
+Prompt 2:
+"What's the expected format for the @Usage annotation in a Wrangler directive?"
+
+Prompt 3:
+"Explain how to use ByteSize and TimeDuration in Wrangler rows."
+
+Prompt 4:
+"What’s the best way to handle both ByteSize and TimeDuration values as Strings, Numbers, or custom objects in Java?"
+
+Prompt 5:
+"How do I throw and handle DirectiveParseException in a Wrangler directive if the arguments are invalid?"
+
+Prompt 6:
+"What’s the Maven command to build only the wrangler-transform module?"
+
+Prompt 8:
+"create the README.md"
+
+Prompt 9:
+"how to write a test for aggregate-stats directive"
+
+Prompt 10:
+"how do I revert to the last working commit"
+
+In Addition to these prompts i used AI extensively for error fixing and generating subfunctions. 
+For a lot of the errors I couldnt understand what it meant and i used ChatGPT and Claude to help me understand what it mean and how to fix it.

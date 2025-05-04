@@ -2,6 +2,10 @@
 
 This is a forked and enhanced version of the [CDAP Wrangler](https://github.com/data-integrations/wrangler) project. The enhancement was developed as part of a software engineering assignment and involves implementing a new directive called `aggregate-stats`.
 
+## Note
+
+Due to academic commitments, specifically final examinations during the submission period, I was unable to complete Assignment 1 in its entirety. I made significant progress by implementing the core directive (`aggregate-stats`) and its associated logic and tests, but time constraints limited further testing and polish.
+
 ## 📌 Enhancement Summary
 
 ### ➕ Directive Added: `aggregate-stats`
@@ -91,10 +95,10 @@ aggregate-stats data_transfer_size response_time total_size_gb total_time_min gb
 
 May 04, 2025
 
-## 🧑 Author
+## 🧑 Author : Kevin George Mathew
 
 **<Your Name>**  
-GitHub: [@<your-username>](https://github.com/<your-username>)
+GitHub: [@kevgmat](https://github.com/kevgmat/wrangler-enhanced)
 
 ## 📝 License
 
