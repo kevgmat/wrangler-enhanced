@@ -203,6 +203,9 @@ TIME_DURATION: (DIGITS ('.' DIGITS)?) TIME_UNIT;
 
 Number: Int ('.' Digit*)?;
 
+byteSizeValue: BYTE_SIZE ;
+timeDurationValue: TIME_DURATION ;
+
 Identifier: [a-zA-Z_\-] [a-zA-Z_0-9\-]*;
 
 Macro: [a-zA-Z_] [a-zA-Z_0-9]*;
